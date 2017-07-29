@@ -2,7 +2,7 @@
 
 ### Show network speed in your vscode status bar.
 
-![showcase](doc/speed.gif)
+![showcase](https://raw.githubusercontent.com/picospuch/vsce-nrtxm/master/doc/speed.gif)
 
 
 ### Use "Toggle the NRTXM" command to control funtionality.
